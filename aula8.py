@@ -1,7 +1,7 @@
 nome = 'Fernando'
 sobrenome = 'Rodrigues'
 idade = 20
-ano_nascimento = 2026 - idade
+ano_nascimento = 2026 - idade 
 maior_de_idade = idade >= 18
 altura_metros = 1.75
 
